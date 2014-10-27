@@ -1,0 +1,45 @@
+/*css for photos*/ 
+.photos{
+	display: block;
+	float: left;
+	margin: 15px 15px 0px 15px;
+	height: 320px;
+}
+
+.photos ul {
+	list-style: none;
+	float: left;
+}
+
+h4 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h6 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.photos ul li {
+	display: inline;
+	list-style: none;
+	text-align: center;
+}
+
+.dog-details {
+	display: inline;
+	float: left;
+	margin: 0px 0px 70px 0px;
+
+}
+
+.dog-details img {
+	width: 200px;
+}
+
+.info{
+	padding: 10px 30px 30px 0px;
+	width: 225px;
+}
+
